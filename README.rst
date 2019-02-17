@@ -31,7 +31,7 @@ Quick install for debian/ubuntu like linux distributions.
     $ apt-get install python-virtualenv python-dev
     $ virtualenv pyrocks_test
     $ cd pyrocks_test
-    $ . bin/active
+    $ . bin/activate
     $ pip install python-rocksdb
 
 
