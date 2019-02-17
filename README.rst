@@ -18,7 +18,7 @@ Quick install for debian/ubuntu like linux distributions.
 .. code-block:: bash
 
     $ apt-get install build-essential libsnappy-dev zlib1g-dev libbz2-dev libgflags-dev liblz4-dev cmake
-    $ git clone https://github.com/facebook/rocksdb.git
+    $ git clone https://github.com/twmht/python-rocksdb.git
     $ cd rocksdb
     $ mkdir build && cd build
     $ cmake ..
